@@ -1,0 +1,16 @@
+{
+  "name": "sql-employee-database",
+  "version": "1.0.0",
+  "description": "12-SQL/02-Challenge - Employee Database using SQL and Inquirer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.11.3"
+  }
+}
